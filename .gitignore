@@ -6,3 +6,4 @@ notebooks/cifar_net.pth
 .metals/metals.log
 .metals/metals.lock.db
 .devcontainer/euler-scala.code-workspace
+coursier
