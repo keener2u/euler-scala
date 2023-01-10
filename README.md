@@ -6,6 +6,6 @@ Solving problems from ProjectEuler.net using functional paradigm in Scala
 
 [Problem 2 solution](notebooks/problems/2.ipynb)
 
-[Problem 3 solution](notebooks/problems/4.ipynb)
+[Problem 3 solution](notebooks/problems/3.ipynb)
 
 
